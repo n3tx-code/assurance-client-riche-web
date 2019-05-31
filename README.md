@@ -1,0 +1,1 @@
+# assurance-client-riche-web
