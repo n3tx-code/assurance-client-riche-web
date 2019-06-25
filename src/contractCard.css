@@ -1,0 +1,45 @@
+.contract-card
+{
+    width: 100%;
+}
+.contrat-wrapper
+{
+    margin : 20px;
+}
+img.contrat-icon
+{
+    margin-top : 20px;
+    height: 90px;
+    width: 90px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.contract-card-other
+{
+    margin-top: 20px;
+}
+.contact-other-card-body
+{
+    height: 150px;
+}
+.btn-bottom
+{
+    position: fixed;
+    bottom : 10px;
+    left: 11%;
+    width: 80%;
+}
+.top-contract-card
+{
+    height: 350px;
+}
+@media screen and (max-width: 920px) {
+    #top-contract {
+        margin-bottom: 20px;
+    }
+    .top-contract-card
+    {
+        height: 420px;
+        margin-bottom: 20px;
+    }
+}
